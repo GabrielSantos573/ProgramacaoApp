@@ -16,7 +16,7 @@ Este repositório contém quatro aplicativos desenvolvidos em React Native usand
 Certifique-se de ter o Expo CLI instalado globalmente:
 
 ```bash
-npm install -g expo-cli
+npm install
 ```
 ```bash
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
